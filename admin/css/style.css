@@ -1,0 +1,16 @@
+.current-student-td{
+    width: 250px;
+    word-break: break-all;
+    font-size: 14px;
+    color: #575962;
+    font-family: Roboto;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.current-student-td-delete{
+    word-break: break-all;
+    font-size: 14px;
+    color: #575962;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
